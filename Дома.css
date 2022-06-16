@@ -7,6 +7,19 @@
   margin-bottom: 60px;
 }
 
+.tictactoe
+{
+  text-align: center;
+  height: 520px;
+  padding: 10px;
+}
+
+.tictactoe > iframe
+{
+  width: 100%;
+  height: 500px;
+  margin: 0!important;
+}
 .u-section-1 .u-layout-cell-1 {
   min-height: 593px;
   background-image: none;
@@ -22,6 +35,22 @@
   font-style: normal;
   font-weight: 400;
   margin: 0;
+}
+hr{
+  margin: 0 !important;
+  background-color: #05486b;
+  padding: 0px !important;
+}
+.titleT
+{
+  text-align: center;
+  background-color: #5cdb95;
+  margin: 0px !important;
+}
+.titleT > h2
+{
+  padding: 10px;
+  margin: 0px !important;
 }
 
 .u-section-1 .u-image-1 {
